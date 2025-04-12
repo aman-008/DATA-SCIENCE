@@ -14,3 +14,8 @@ print("End of loop")
 for i in range(1, 10, 2):
     print(f"Current number: {i}")
 print("End of loop")
+
+
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit,end=' ')
