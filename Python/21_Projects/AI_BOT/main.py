@@ -1,7 +1,8 @@
 from openai import OpenAI
 
-key = "give the api key from openapi"
+# key = "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"
 
+key = ''
 messages = []
 
 client = OpenAI(
